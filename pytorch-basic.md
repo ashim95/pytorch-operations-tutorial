@@ -1,13 +1,3 @@
----
-layout: post
-comments: true
-mathjax: true
-priority: 1230
-title: “PyTorch - Basic operations”
-excerpt: “PyTorch - Basic operations”
-date: 2018-02-09 14:00:00
----
-
 This tutorial helps NumPy or TensorFlow users to pick up PyTorch quickly.
 
 Credits: [Jonathan Hui](https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/)
